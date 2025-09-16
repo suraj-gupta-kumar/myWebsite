@@ -4,15 +4,15 @@ const Leadership = () => {
   const achievements = [
     {
       title: 'College Fest Organizer',
-      description: 'Successfully managed and coordinated college fest with 5000+ attendees, demonstrating exceptional event management and leadership skills.'
+      description: 'Played a key role in organizing the college annual fest, successfully attracting over 5,000 students, Coordinated with various colleges for inter-college competitions, enhancing collaboration and participation.'
     },
     {
       title: 'Blood Donation Camp Leader',
-      description: 'Led a successful blood donation campaign resulting in the collection of 500+ units, making a significant impact on the community.'
+      description: 'Led the organization of a blood donation camp at the college, mobilizing a team that collected over 500 blood units, This initiative not only raised awareness about the importance of blood donation but also contributed significantly to local healthcare needs.'
     },
     {
       title: 'NSS Volunteer',
-      description: 'Actively participated in teaching underprivileged children, contributing to social welfare and community development.'
+      description: 'Actively participated in community service initiatives, focusing on educating underprivileged children, Successfully helped numerous students improve their academic performance, with many passing their board exams with commendable results.'
     }
   ];
 
