@@ -2,18 +2,19 @@ import React from 'react';
 
 const Experience = () => {
   const experiences = [
+ {
+      title: 'Marketing Intern',
+      company: 'Axiom Ayurveda Pvt Ltd',
+      period: 'Jun 2025 - Aug 2025',
+      description: 'Conducted comprehensive surveys at 70 retail shops to assess the current selling state of Alo Fruit, gathering valuable insights from retailers regarding product placement, pricing, and customer preferences, Engaged with 200 customers to collect feedback on their opinions and experiences with Alo Fruit, analyzing consumer behavior and preferences to inform marketing strategies, Performed observational research as a customer to evaluate the  shopping experience and identify potential areas for improvement in product visibility and customer engagement, Collaborated with the marketing team to synthesize survey data and develop actionable recommendations aimed at enhancing brand presence and sales performance in the market.'
+    }
     {
       title: 'Intern',
       company: 'Pravaig Dynamics',
       period: 'Apr 2022 - Aug 2022',
-      description: 'Learned Hootsuite Analytics and worked on social media applications, contributing to the company\'s digital presence and marketing strategies.'
+      description: 'Gained hands-on experience using Hootsuite to schedule, monitor, and manage social media campaigns across platforms such as Instagram, LinkedIn, and Twitter, Assisted in content creation and performance tracking for digital marketing initiatives, contributing to the overall strategy and execution of campaigns, Enhanced brand visibility through consistent social media engagement and strategic execution, resulting in increased audience interaction and brand awareness.'
     },
-    {
-      title: 'Freelancer',
-      company: 'Smile Times',
-      period: 'Jan 2022 - Sep 2022',
-      description: 'Worked with Adobe Premiere Pro and multiple clients, delivering high-quality content and maintaining strong client relationships.'
-    }
+   
   ];
 
   return (
