@@ -7,7 +7,8 @@ const Skills = () => {
       'MS Excel',
       'Power BI',
       'MySQL',
-      'Financial Modeling'
+      'Google Looker Studio'
+      'Python'
     ],
     soft: [
       'Adaptability',
