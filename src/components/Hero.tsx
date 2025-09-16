@@ -12,7 +12,7 @@ const Hero = () => {
       <div className="text-center text-white">
         <h1 className="text-5xl font-bold mb-4 animate-fade-in">Suraj Kumar Gupta</h1>
         <p className="text-xl mb-8 animate-fade-in-delay">
-          Aspiring Finance Professional | Analytical Thinker | Strategic Leader
+          Aspiring Marketing Professional | Analytical Thinker | Strategic Leader
         </p>
         <div className="flex justify-center gap-6 mb-12">
           <a
