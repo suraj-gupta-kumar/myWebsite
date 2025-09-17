@@ -9,7 +9,8 @@ const About = () => {
         </h2>
         <div className="max-w-3xl mx-auto text-gray-600 dark:text-gray-300">
           <p className="text-lg leading-relaxed">
-            Dynamic and motivated MBA student specializing in Marketing, eager to apply analytical skills and creative thinking in a challenging role. Seeking to leverage academic knowledge and hands-on experience in field of Marketing to contribute to innovative brand strategies and enhance customer engagement.
+            Dynamic and motivated MBA student specializing in Marketing, eager to apply analytical skills and creative thinking in a challenging role. 
+            Seeking to leverage academic knowledge and hands-on experience in field of Marketing to contribute to innovative brand strategies and enhance customer engagement.
           </p>
         </div>
       </div>
